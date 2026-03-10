@@ -9,3 +9,4 @@ ________________________________________________________________________________
 **MATERIA: Programación de Software**
 **SEMESTRE: 2026-1**
 **ESTUDIANTE: Santiago Cortés**
+![Tabla SQL](BD_SQL.png)
