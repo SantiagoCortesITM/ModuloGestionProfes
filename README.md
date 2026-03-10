@@ -12,4 +12,4 @@ ________________________________________________________________________________
 ![Tabla SQL](![Tabla SQL](ModuloGestionProfes/BD_SQL.png)
 ![Tabla SQL](![Tabla SQL](ModuloGestionProfes/Error.png)
 ![Tabla SQL](![Tabla SQL](ModuloGestionProfes/POST.png)
-![Tabla SQL](![Tabla SQL](ModuloGestionProfes/GEST.png)
+![Tabla SQL](![Tabla SQL](ModuloGestionProfes/GET.png)
