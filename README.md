@@ -7,6 +7,7 @@ ________________________________________________________________________________
 
 **PROFESOR:** Daniel Villamizar
 **MATERIA:** Programación de Software
+**CURSO:** 580304006-9
 **SEMESTRE:** 2026-1
 **ESTUDIANTE:** Santiago Cortés
 
