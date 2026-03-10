@@ -1,0 +1,6 @@
+@ModuloGestionProfes_HostAddress = http://localhost:5171
+
+GET {{ModuloGestionProfes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
